@@ -14,7 +14,7 @@ public class LoginPage {
 	public LoginPage(WebDriver driver) {
 		this.driver = driver; 
 	}
-	
+	//...............
 	public void login() throws Exception {
 		reuse = new WebDriverReusables(driver);
 		reuse.getScreenshot("BeforeLogin");
