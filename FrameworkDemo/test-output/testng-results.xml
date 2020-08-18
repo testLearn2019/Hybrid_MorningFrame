@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32001" started-at="2020-08-18T08:57:00 IST" finished-at="2020-08-18T08:57:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32001" started-at="2020-08-18T08:57:00 IST" finished-at="2020-08-18T08:57:32 IST">
+      <class name="com.testcases.VerifyOrangeHRM">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:com.testcases.VerifyOrangeHRM@d44fc21]" name="browserSetup" is-config="true" duration-ms="23322" started-at="2020-08-18T08:57:00 IST" finished-at="2020-08-18T08:57:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="verifyUserManagementPage()[pri:0, instance:com.testcases.VerifyOrangeHRM@d44fc21]" name="verifyUserManagementPage" duration-ms="8619" started-at="2020-08-18T08:57:24 IST" finished-at="2020-08-18T08:57:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserManagementPage -->
+      </class> <!-- com.testcases.VerifyOrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
